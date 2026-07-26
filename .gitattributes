@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
+# Auto detect text files and perform LF normalization.
 * text=auto
+
+# Keep binary reverse-engineering materials byte-for-byte.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
+*.zip binary
+*.rar binary
+*.7z binary
+*.exe binary
+*.dll binary
+*.so binary
+*.bin binary
+*.swf binary
+*.hlp binary
+*.i64 binary
+*.idb binary
+*.udd binary

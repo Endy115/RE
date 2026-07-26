@@ -1,0 +1,100 @@
+# Local editor and agent state
+.vscode/
+.idea/
+.agents/
+skills-lock.json
+
+# OS noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python/cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Reverse-engineering work products
+*.i64
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+*.idb
+*.ghidra/
+*.gpr
+*.rep
+*.BinExport
+*.dmp
+*.dump
+*.core
+*.mem
+*.trace
+*.log
+
+# Debugger/project local state
+*.udd
+*.bak
+*.orig
+
+# Visual Studio/build outputs
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.ncb
+*.suo
+*.user
+*.tlog
+*.lastbuildstate
+*.manifest
+*.res
+
+# New generated binaries and archives.
+# Already tracked tutorial materials are not affected by .gitignore.
+*.exe
+*.dll
+*.so
+*.so.*
+*.dylib
+*.bin
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Local scratch area
+_local/
+EXE/
+scratch/
+tmp/
+
+# Personal notes/prompts outside tutorial content
+Tùy loại challenge mà chọn promptsk.txt
+
+# Tutorial folders are the public course content, including supplied lab binaries.
+!tutorials/
+!tutorials/**
+
+# Keep generated build artifacts out of tutorials.
+tutorials/**/[Dd]ebug/
+tutorials/**/[Rr]elease/
+tutorials/**/x64/
+tutorials/**/x86/
+tutorials/**/*.obj
+tutorials/**/*.pdb
+tutorials/**/*.ilk
+tutorials/**/*.ncb
+tutorials/**/*.suo
+tutorials/**/*.user
+tutorials/**/*.tlog
+tutorials/**/*.lastbuildstate
+tutorials/**/*.manifest
+tutorials/**/*.res

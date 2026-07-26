@@ -1,0 +1,27 @@
+# Tutorials
+
+Danh sách bài học Reverse Engineering theo thứ tự:
+
+1. [What is Reverse Engineering](<01-what-is-reverse-engineering/writeup.md>)
+2. [Intro to Olly Debug](<02-intro-to-olly-debug/writeup.md>)
+3. [Using OllyDBG Part 1](<03-using-ollydbg-part-1/writeup.md>)
+4. [Using Olly Part 2](<04-using-olly-part-2/writeup.md>)
+5. [Our First Sort Of Crack](<05-our-first-sort-of-crack/writeup.md>)
+6. [Our First True Crack](<06-our-first-true-crack/writeup.md>)
+7. [More Crackmes](<07-more-crackmes/writeup.md>)
+8. [Frame Of Reference](<08-frame-of-reference/writeup.md>)
+9. [No Strings Attached](<09-no-strings-attached/writeup.md>)
+10. [The Levels Of Patching](<10-the-levels-of-patching/writeup.md>)
+11. [Breaking In Our Noob Skills](<11-breaking-in-our-noob-skills/writeup.md>)
+12. [A Tougher NOOBy Example](<12-a-tougher-nooby-example/writeup.md>)
+13. [Cracking a Real Program](<13-cracking-a-real-program/writeup.md>)
+14. [How to Remove Nag Screens](<14-how-to-remove-nag-screens/writeup.md>)
+15. [Using The Call Stack](<15-using-the-call-stack/writeup.md>)
+16. [Dealing With Windows Messages](<16a-dealing-with-windows-messages/writeup.md>)
+17. [Self Modifying Code](<16b-self-modifying-code/writeup.md>)
+18. [Bruteforcing](<16c-bruteforcing/writeup.md>)
+19. [Working With Delphi Binaries](<17-working-with-delphi-binaries/writeup.md>)
+20. [Time Trials and Memory Breakpoints](<18-time-trials-and-memory-breakpoints/writeup.md>)
+21. [Patchers](<19-patchers/writeup.md>)
+22. [Working With Visual Basic Binaries](<20a-working-with-visual-basic-binaries/writeup.md>)
+23. [Working With Basic Binaries](<20b-working-with-basic-binaries/writeup.md>)
