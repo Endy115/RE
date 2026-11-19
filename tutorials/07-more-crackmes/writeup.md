@@ -110,13 +110,13 @@ Nếu ta chọn F*** it thì sẽ bị out. Còn nếu chọn Done
 
 Giờ đây ta sẽ thay các nút để có ý nghĩa hơn.
 
-# Using Resource Hacker
+# Using Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker)
 
 Chạy chương trình đó lên :
 
 ![alt text](images/image-23.png)
 
-Tiếp tục tải tệp Crackme8 vào trong Resource Hacker sẽ nhận thấy 1 folder Dialog với 1 dấu cộng bên cạnh. Mở dấu cộng và click vào dấu cộng bên cạnh thư mục tiếp theo(103) và sẽ thấy một số thứ như này :
+Tiếp tục tải tệp Crackme8 vào trong Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) sẽ nhận thấy 1 folder Dialog với 1 dấu cộng bên cạnh. Mở dấu cộng và click vào dấu cộng bên cạnh thư mục tiếp theo(103) và sẽ thấy một số thứ như này :
 
 ![alt text](images/image-24.png)
 
@@ -178,5 +178,5 @@ Và thành công. Giờ hãy nhanh chóng tạo 1 bản vá: tải lại app, t�
 
 (Điều đáng suy ngẫm)
 
-Tôi muốn đề cập rằng Resource Hacker là 1 chương trình vui và rất hữu ích. Nó cho phép ta không chỉ thay đổi nhiều thứ trong file(xâu, icon, nhãn, nút, chú thích) nhưng nó cũng cho ta đổi nhiều thứ trong cửa sổ của nó(nút bắt đầu, menu ngữ cảnh, hộp thoại giới thiệu của máy tính). Trên thực tế, Resource Hacker là cái mà tôi dùng để đổi các biểu tượng trong Olly.
+Tôi muốn đề cập rằng Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) là 1 chương trình vui và rất hữu ích. Nó cho phép ta không chỉ thay đổi nhiều thứ trong file(xâu, icon, nhãn, nút, chú thích) nhưng nó cũng cho ta đổi nhiều thứ trong cửa sổ của nó(nút bắt đầu, menu ngữ cảnh, hộp thoại giới thiệu của máy tính). Trên thực tế, Resource Hacker or [Resource Cracker](https://www.pelock.com/products/resource-cracker) là cái mà tôi dùng để đổi các biểu tượng trong Olly.
 
